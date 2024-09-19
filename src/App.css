@@ -1,0 +1,16 @@
+body{
+  background-color: honeydew;
+}
+
+.App {
+  text-align: center;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+button{
+  background-color: tomato;
+  margin: 0 5px;
+  padding: 10px;
+  /* border: 2px solid grey; */
+  border-radius: 4px;
+}
